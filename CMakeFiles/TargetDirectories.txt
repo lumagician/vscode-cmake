@@ -1,0 +1,3 @@
+/home/hfl2/Developer/vscode-cmake/CMakeFiles/main.dir
+/home/hfl2/Developer/vscode-cmake/CMakeFiles/edit_cache.dir
+/home/hfl2/Developer/vscode-cmake/CMakeFiles/rebuild_cache.dir
